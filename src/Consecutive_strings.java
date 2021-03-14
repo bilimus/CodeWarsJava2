@@ -3,7 +3,7 @@ public class Consecutive_strings {
         //String[] strarr = {"zone", "abigail", "theta", "form", "libe", "zas", "theta", "abigail"};
         //String[] strarr = {"ejjjjmmtthh", "zxxuueeg", "aanlljrrrxx", "dqqqaaabbb", "oocccffuucccjjjkkkjyyyeehh"};
         String[] strarr = {"itvayloxrp","wkppqsztdkmvcuwvereiupccauycnjutlv","vweqilsfytihvrzlaodfixoyxvyuyvgpck"};
-        int k = 1;
+        int k = 2;  // You can change a number of words by assigning k=1,2,3...
 
         int lnStr = 0;
         int tmpLnStr = 0;
